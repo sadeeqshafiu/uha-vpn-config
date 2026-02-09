@@ -1,6 +1,6 @@
 {
   "app_name": "UHA VPN",
-  "status": "off",
+  "status": "on",
   "version": "1.0",
   "server": "example.server.com",
   "port": "443",
